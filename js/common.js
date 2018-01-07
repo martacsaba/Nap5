@@ -8,6 +8,7 @@ function Load_ChangePasswordForm(){
         }
     );
 }
+// 
 
 function Load_TesztKerdesForm(tkid){
     // Html tartalom betöltése php-ből
