@@ -1,0 +1,58 @@
+#page {
+    border: 1px solid black;
+    background-color: #999999;    
+    width:1000px;
+}
+
+#header {
+    border-bottom: 1px solid black;    
+    background-color: #999999;        
+    height: 50px;
+    padding: 10px;        
+}
+
+#main {
+    background-color: #00ffcc;        
+    min-height: 350px;
+}
+
+#left {
+    background-color: #00ffcc;            
+    float: left;
+    padding: 10px;
+}
+
+#middle {    
+    border-left: 1px solid black ;    
+    background-color: #00ffcc;  
+    margin-left: 300px;
+    min-height: 350px;    
+    padding: 10px;    
+}
+
+#footer {
+    border-top: 1px solid black;        
+    background-color: #999999;        
+    height: 50px;    
+    clear:both;
+    padding: 10px;        
+}
+
+.accept {
+    color: green;
+}
+
+.warning {
+    color: blueviolet;
+}
+
+.error {
+    color: red;
+}
+
+.watermark {
+    color: blue !important;
+}
+.editmezo {
+    width: 600px;
+}
